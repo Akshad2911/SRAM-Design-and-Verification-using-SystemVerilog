@@ -15,7 +15,7 @@ This project presents a clean and synthesizable implementation of a **Static Ran
 * Design a parameterized single-port SRAM in SystemVerilog
 * Support synchronous read and write operations
 * Verify functionality using a simulation-based testbench
-
+* Ensure clarity, modularity, and synthesizability of RTL code
 
 ---
 

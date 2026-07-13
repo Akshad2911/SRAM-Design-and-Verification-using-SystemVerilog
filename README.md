@@ -89,7 +89,7 @@ SRAM_SystemVerilog/
 ## 🛠️ Tools and Environment
 
 * **Language**: SystemVerilog
-* **Simulation**: ModelSim / QuestaSim / any SV-compatible simulator
+* **Simulation**: ModelSim / QuestaSim 
 
 ---
 

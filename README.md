@@ -78,15 +78,11 @@ This verification setup ensures protocol correctness, data integrity, and timing
 
 ## 🗂️ Project Structure
 
-```
 SRAM_SystemVerilog/
 
 ├── sram.sv   // SRAM RTL design
 
-├── tb_sram.sv     // Verification testbench
-
 ├── README.md      // Documentation
-```
 
 ---
 

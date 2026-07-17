@@ -108,5 +108,3 @@ SRAM_SystemVerilog/
 * Developing basic verification testbenches
 
 ---
-
-Akshad
